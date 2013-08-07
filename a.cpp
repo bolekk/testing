@@ -1,4 +1,4 @@
 int main() {
-  int j = 0;
+  int my_var = 0;
   return 0;
 }
